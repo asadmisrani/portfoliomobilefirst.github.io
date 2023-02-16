@@ -45,7 +45,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://github.com/asadmisrani/mobilefirst.github.io)
+- [Live Demo Link](https://github.com/asadmisrani/portfoliomobilefirst.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
